@@ -11,9 +11,6 @@ import re
 import numpy as np
 from PIL import Image
 from imageio import imread
-from split_image import split_image
-import imagehash
-import matplotlib.pyplot as plt
 
 
 # In[ ]:
